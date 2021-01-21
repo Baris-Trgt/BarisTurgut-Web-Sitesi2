@@ -1,0 +1,11 @@
+.g{background-color: rgb(29, 29, 29); margin: 0;}
+.üst{margin-left: 15px;padding: 2px 2px;}
+ul {list-style-type:none;margin: 0;padding: 0;width:15%;background-color:#c2c2bc;border: black solid 1px ;position: fixed;height: 100%;overflow: auto;}
+li{border-bottom: 1px solid black; text-align: center;}
+li a{display: block;color: rgb(0, 0, 0);padding: 8px 16px;text-decoration: none;font-size: 15px;font-family: 'Times New Roman';}
+li a.menü{background-color: rgba(44, 70, 44, 0.973); color: white;}
+li a:hover{background-color: rgba(70, 134, 53, 0.973);color: white;}
+.konum{text-align: center;margin-left: 300px;margin-right: 50px;}
+.bilgi{position: relative;border: solid black 2px;width: 136vh;height: 100%;background-color:#c2c2bc;margin-left: 301px;font-size: 20px;font-family:Helvetica;}
+.baslik{color: rgb(231, 31, 31);font-size: 25px;}
+.baslik2{color: rgb(20, 83, 199);font-size: 25px;}

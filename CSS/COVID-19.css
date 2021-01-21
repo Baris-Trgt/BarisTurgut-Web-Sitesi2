@@ -1,0 +1,12 @@
+.GENEL{background-color: rgb(7, 7, 7);width: auto;}
+.üstmenü{   text-decoration: none;list-style: none;box-sizing: border-box;background-color: rgb(124, 27, 27);margin: auto;}
+nav{height: 250px;width: 100%;    }
+.logo{display:inline-block;color: rgb(252, 252, 252);font-size: 35px;font-weight: bold;height: 10px;margin-top: 40px;   }
+nav ul {height: auto;margin-left: 10px;}
+nav ul li {display: inline-block;line-height: 30px;   }
+nav ul li a{ color: white;font-size: 17px;padding: 3px 12px;border-radius: 15px;text-decoration: none;}
+.aktif{background: rgb(65, 62, 62);padding-right: 50px;margin-top: -90px ;   }
+.aktif:hover{background-color: #2a8072;transition: .2s;}
+.resim{float: left;margin-top: 0px;}
+.s{color: white;}
+.metin{color:white}

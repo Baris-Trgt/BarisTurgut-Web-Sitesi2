@@ -1,0 +1,9 @@
+.a{text-align: center; background-color:antiquewhite}
+.üst{margin-left: 10px;padding: 2px 2px;}    
+ul {list-style-type:none;margin: 0;padding: 0;width:15%;background-color: rgb(155, 27, 27);border: black solid 1px ;position: fixed;height: 100%; overflow: auto;} 
+li{ border-bottom: 1px solid black; text-align: center;}
+li a{display: block; color: rgb(255, 255, 255); padding: 8px 16px; text-decoration: none;font-size: 15px;font-family: 'Times New Roman';} 
+li a.menü{ background-color: rgb(33, 40, 136); color: white;} 
+li a:hover{  background-color: rgba(44, 70, 44, 0.973);color: white; }
+.resim{ display: inline;position: static;border-bottom: solid 4px black; padding-right: 30px; margin-left: 34vh; }
+.metin{ margin-left: 35vh;}
